@@ -54,7 +54,7 @@
           </div>
           <div class="w-full md:w-1/2 lg:w-1/4 mb-5">
             <img
-              src="public\medias\CreationAnanda\ANANDA BannierFB.png"
+              src="public\medias\CreationAnanda\ANANDABanniereFB.png"
               alt="Banniere fb Ananda"
               class="w-full h-auto"
             />
