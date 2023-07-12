@@ -4,7 +4,7 @@
       <div
         class="absolute top-0 left-0 right-0 bottom-0 z-0"
         style="
-          background-image: url('../public/medias/Green-Life.png');
+          background-image: url('public/medias/Green-Life.png');
           background-size: cover;
           background-position: center;
           opacity: 0.4;
