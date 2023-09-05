@@ -1,10 +1,14 @@
 <template>
   <div>
     <main class="relative">
-      
       <div
         class="absolute top-0 left-0 right-0 bottom-0 z-0"
-        style="background-image: url('./public/medias/hackerman.jpg'); background-size: cover; background-position: center; opacity: 0.6;"
+        style="
+          background-image: url('public\medias\hackerman.jpg');
+          background-size: cover;
+          background-position: center;
+          opacity: 0.6;
+        "
       ></div>
       <div class="container mx-auto px-6 py-12 relative z-10">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -71,7 +75,6 @@
     </main>
   </div>
 </template>
-
 
 <style>
 .custom-text {
