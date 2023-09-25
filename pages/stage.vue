@@ -26,14 +26,14 @@
         <div class="flex flex-wrap justify-between space-x-1">
           <div class="w-full md:w-1/2 lg:w-1/4 mb-5">
             <img
-              src="public\medias\CreationAnanda\AnandaFicheExposant.png"
+              src="\medias\CreationAnanda\AnandaFicheExposant.png"
               alt="fiche exposant Ananda salon"
               class="w-full h-auto"
             />
           </div>
           <div class="w-full md:w-1/2 lg:w-1/4 mb-5">
             <img
-              src="public\medias\CreationAnanda\ANANDAAffiche1.png"
+              src="\medias\CreationAnanda\ANANDAAffiche1.png"
               alt="affiche salon ananda"
               class="w-full h-auto"
             />
